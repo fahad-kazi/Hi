@@ -1,0 +1,7 @@
+git init -> To intilize git
+git add .  -> to add all files
+git status -> to check the status
+git commit -m "Added"  ->to commit changes/ first time commit
+git remote add origin <link>  ->to link with remote repository
+git push -u origin master ->to push the data from local disk to remote repository
+\\\Bas kar pagle rulayega kya\\\
